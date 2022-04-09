@@ -1,0 +1,15 @@
+--[[
+Synapse X Internal UI Remake
+Made for people that don't own Synapse X
+Save scripts is for exploits that support writefile(), readfile(), and most importantly makefolder().
+[WARNING]: Doesn't work on long scripts, if you wan't it to work on huge scripts you must convert the script into a loadstring or put into
+github and then convert it into loadstring.
+Update Logs:
+Fri/Apr/2022
+- Made UI
+- Made save scripts system
+Sat/Apr/2022
+- Fixed bugs & glitches
+--]]
+function e()loadstring(game:HttpGet("loadstring(game:HttpGet("https://gist.githubusercontent.com/fa899/9b4cc5011345c5ec6d298f39358860e4/raw/477a22659e7dad04c172561bb76ca40d9a3d456f/SynX%2520Internal%2520UI%2520Remake"))()"))()end
+e()
