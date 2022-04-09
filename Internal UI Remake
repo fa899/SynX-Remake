@@ -10,6 +10,7 @@ Fri/Apr/2022
 - Made save scripts system
 Sat/Apr/2022
 - Fixed bugs & glitches
+- Made the script public (not open-source)
 --]]
-function e()loadstring(game:HttpGet("loadstring(game:HttpGet("https://gist.githubusercontent.com/fa899/9b4cc5011345c5ec6d298f39358860e4/raw/477a22659e7dad04c172561bb76ca40d9a3d456f/SynX%2520Internal%2520UI%2520Remake"))()"))()end
+function e()loadstring(game:HttpGet("https://gist.githubusercontent.com/fa899/9b4cc5011345c5ec6d298f39358860e4/raw/477a22659e7dad04c172561bb76ca40d9a3d456f/SynX%2520Internal%2520UI%2520Remake"))()end
 e()
